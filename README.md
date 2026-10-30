@@ -34,7 +34,7 @@ Buka folder proyek di VS Code.
 
 Jalankan program melalui terminal:
 
-python praktik/data_mahasiswa.py
+py praktik/data_mahasiswa.py
 
 ## Test Case
 
